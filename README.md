@@ -64,6 +64,8 @@ customer         | customer_id
 
 ### Ответ на задание 2
 
+https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/table.txt
+
 ---
 
 ## Дополнительные задания (со звёздочкой*)
