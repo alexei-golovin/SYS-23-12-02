@@ -46,6 +46,15 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ### Ответ на задание 1
 
+![](https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/101.jpg)
+![](https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/102.jpg)
+![](https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/103.jpg)
+![](https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/104.jpg)
+![](https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/105.jpg)
+![](https://github.com/alexei-golovin/SYS-23-12-02/blob/main/files/106.jpg)
+
+---
+
 ### Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 ```
