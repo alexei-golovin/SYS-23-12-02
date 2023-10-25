@@ -18,7 +18,7 @@ nicer_but_slower_film_list             | ---
 payment                                | payment_id
 rental                                 | rental_id
 sales_by_film_category                 | --- 
-sales_by_store                         | --- 
+sales_by_store                        | --- 
 staff                                  | staff_id
 staff_list                             | ---
 store                                  | store_id
